@@ -4,8 +4,11 @@ cabal-dev
 *.hi
 *.chi
 *.chs.h
+.project
+.dist-buildwrapper
 .virtualenv
 .hsenv
 .cabal-sandbox/
 cabal.sandbox.config
 cabal.config
+/.dist-buildwrapper
